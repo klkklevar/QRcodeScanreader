@@ -8,4 +8,4 @@ A sample readme about QRcode tool thats help to scan & read data info using JAVA
 
 ## License & copyright
 
-KlkKlevar
+Khalid Klevar
